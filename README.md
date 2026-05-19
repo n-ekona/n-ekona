@@ -11,7 +11,6 @@
          <li> 私はオープンソースプロジェクトとウェブ開発に情熱を注ぐソフトウェア開発者です。
         趣味は、Clip Studio Paintで丹精込めて描いたイラストやBlenderで作成した3Dモデルを使って動画を作ること、そして日々の生活の質を向上させる電子工作が趣味です。</li>
         <li>💻 My website  <a href="https://nekona.jp">nekoNA.jp</a></li>
-       
        </ul>
        <p align="center">
          <br>
