@@ -2,6 +2,20 @@
 My website https://nekona.jp
 
 ## Introduction 
+<table>
+  <tr>
+    <td>
+      <h2> 💻 &nbsp;About Me </h2>
+       <ul>
+        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>👑 &nbsp; Junior Java Back-end Developer </li>
+        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+       </ul>
+       <p align="center">
+         <br>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=n-ekona&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </p>
 I am a software developer passionate about open-source projects and web development.
 My hobbies include creating videos using illustrations I’ve painstakingly drawn in Clip Studio Paint and 3D models I’ve created in Blender, as well as electronics projects that enhance my daily quality of life.
 ---
@@ -27,7 +41,3 @@ My hobbies include creating videos using illustrations I’ve painstakingly draw
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-ekona&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
 </a>
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-ekona&show_icons=true&theme=github_dark&show_icons=true&layout=compact&hide_rank=false" alt="n-ekona"  />
-<br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-ekona&layout=compact&theme=github_dark&show_icons=true" alt="n-ekona" />
-</div>
