@@ -22,14 +22,41 @@
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
+### Development Tools
+- Git / GitHub
+- VS Code
+- Arduino IDE
+- Emacs
+
+### Creative Tools
+- Adobe Premiere Pro
+- Adobe After Effects
+- Adobe Illustrator
+- Blender
+- Photoshop
+= Clip Studio Paint
+- DaVinci Resolve
+- OBS Studio
+
+### Hardware / Embedded
+- Arduino
+- Raspberry Pi Pico
+- Electronic Prototyping
+- Sensor Development
+- Touch Sensor / ITO Film Research
+
+### Other Skills
+- Video Editing
+- Motion Graphics
+- Web Design
+- UI/UX Design
+- 3D Modeling
+- Creative Coding
 
 ## バッジ
 
 ![GitHub followers](https://img.shields.io/github/followers/n-ekona?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/n_ekona?style=social)
+![Twitter Follow](https://img.shields.io/x/follow/n_ekona?style=social)
 
 ## Github Stat.
 <div align="center">
