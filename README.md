@@ -88,12 +88,6 @@
 </td>
 </tr>
 </table>
-
-## バッジ
-
-![GitHub followers](https://img.shields.io/github/followers/n-ekona?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/n_ekona?style=social)
-
 ## Github Stat.
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
@@ -102,3 +96,7 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-ekona&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
 </a>
 <br><br>
+
+![GitHub followers](https://img.shields.io/github/followers/n-ekona?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/n_ekona?style=social)
+
