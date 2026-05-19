@@ -1,5 +1,5 @@
 # Hello, I'm nekoNA! 👋
-My website https://nekona.jp
+💻My website https://nekona.jp
 
 ## Introduction 
 <table>
@@ -7,20 +7,19 @@ My website https://nekona.jp
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>I am a software developer passionate about open-source projects and web development.
+        My hobbies include creating videos using illustrations I’ve painstakingly drawn in Clip Studio Paint and 3D models I’ve created in Blender, as well as electronics projects that enhance my daily quality of life.</li>
         <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👑 &nbsp; Junior Java Back-end Developer </li>
-        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+        <li> 私は、オープンソースプロジェクトとウェブ開発に情熱を注ぐソフトウェア開発者です。
+        趣味は、Clip Studio Paintで丹精込めて描いたイラストやBlenderで作成した3Dモデルを使って動画を作ること、そして日々の生活の質を向上させる電子工作が趣味です。</li>
        </ul>
        <p align="center">
          <br>
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=n-ekona&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
-I am a software developer passionate about open-source projects and web development.
-My hobbies include creating videos using illustrations I’ve painstakingly drawn in Clip Studio Paint and 3D models I’ve created in Blender, as well as electronics projects that enhance my daily quality of life.
+
 ---
-私は、オープンソースプロジェクトとウェブ開発に情熱を注ぐソフトウェア開発者です。
-趣味は、Clip Studio Paintで丹精込めて描いたイラストやBlenderで作成した3Dモデルを使って動画を作ること、そして日々の生活の質を向上させる電子工作が趣味です。
+
 
 ## Skills
 
