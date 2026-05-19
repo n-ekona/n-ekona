@@ -24,29 +24,25 @@
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 
 ### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,c,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,python,c,html,css" />
 
 - JavaScript  
 - Python  
-- C  
+- C / Arduino  
 - Scheme  
 - HTML / CSS  
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 
 ### 🧰 Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
 
 - Git / GitHub  
 - VS Code  
@@ -54,14 +50,12 @@
 - Emacs  
 
 </td>
+</tr>
 
-<td valign="top" width="25%">
+<tr>
+<td valign="top" width="50%">
 
 ### 🎨 Creative
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,blender,obsidian" />
-</p>
 
 - Adobe Premiere Pro  
 - Adobe After Effects  
@@ -74,13 +68,9 @@
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 
 ### 🔌 Hardware / Other
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
 
 - Arduino  
 - Raspberry Pi Pico  
@@ -93,11 +83,6 @@
 </td>
 </tr>
 </table>
-
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-ekona&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
-</a>
-<br><br>
 
 ![GitHub followers](https://img.shields.io/github/followers/n-ekona?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/n_ekona?style=social)
