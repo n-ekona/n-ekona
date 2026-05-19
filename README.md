@@ -88,7 +88,6 @@
 </td>
 </tr>
 </table>
-## Github Stat.
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
 
