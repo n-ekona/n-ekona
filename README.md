@@ -26,7 +26,23 @@
 <tr>
 <td valign="top" width="25%">
 
-### 💻 Development
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,c,html,css" />
+</p>
+
+- JavaScript  
+- Python  
+- C  
+- Scheme  
+- HTML / CSS  
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🧰 Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
@@ -44,12 +60,12 @@
 ### 🎨 Creative
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,blender" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,blender,obsidian" />
 </p>
 
-- Premiere Pro  
-- After Effects  
-- Illustrator  
+- Adobe Premiere Pro  
+- Adobe After Effects  
+- Adobe Illustrator  
 - Photoshop  
 - Clip Studio Paint  
 - Blender  
@@ -60,7 +76,7 @@
 
 <td valign="top" width="25%">
 
-### 🔌 Hardware
+### 🔌 Hardware / Other
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino" />
@@ -70,26 +86,13 @@
 - Raspberry Pi Pico  
 - Electronic Prototyping  
 - Sensor Development  
-- Touch Sensor / ITO Film Research  
-
-</td>
-
-<td valign="top" width="25%">
-
-### ✨ Other
-
 - Video Editing  
 - Motion Graphics  
 - Web Design  
-- UI/UX Design  
-- 3D Modeling  
-- Creative Coding  
 
 </td>
 </tr>
 </table>
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
 
 <a href="https://github.com/bindian0509/bindian0509">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-ekona&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
