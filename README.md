@@ -20,43 +20,79 @@
 ---
 
 
-## Skills
+## 🛠 Skills
 
-### Development Tools
-- Git / GitHub
-- VS Code
-- Arduino IDE
-- Emacs
+<table>
+<tr>
+<td valign="top" width="25%">
 
-### Creative Tools
-- Adobe Premiere Pro
-- Adobe After Effects
-- Adobe Illustrator
-- Blender
-- Photoshop
-= Clip Studio Paint
-- DaVinci Resolve
-- OBS Studio
+### 💻 Development
 
-### Hardware / Embedded
-- Arduino
-- Raspberry Pi Pico
-- Electronic Prototyping
-- Sensor Development
-- Touch Sensor / ITO Film Research
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+</p>
 
-### Other Skills
-- Video Editing
-- Motion Graphics
-- Web Design
-- UI/UX Design
-- 3D Modeling
-- Creative Coding
+- Git / GitHub  
+- VS Code  
+- Arduino IDE  
+- Emacs  
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🎨 Creative
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,ai,blender" />
+</p>
+
+- Premiere Pro  
+- After Effects  
+- Illustrator  
+- Photoshop  
+- Clip Studio Paint  
+- Blender  
+- DaVinci Resolve  
+- OBS Studio  
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🔌 Hardware
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+- Arduino  
+- Raspberry Pi Pico  
+- Electronic Prototyping  
+- Sensor Development  
+- Touch Sensor / ITO Film Research  
+
+</td>
+
+<td valign="top" width="25%">
+
+### ✨ Other
+
+- Video Editing  
+- Motion Graphics  
+- Web Design  
+- UI/UX Design  
+- 3D Modeling  
+- Creative Coding  
+
+</td>
+</tr>
+</table>
 
 ## バッジ
 
 ![GitHub followers](https://img.shields.io/github/followers/n-ekona?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/x/follow/n_ekona?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/n_ekona?style=social)
 
 ## Github Stat.
 <div align="center">
