@@ -1,11 +1,12 @@
 # Hello, I'm nekoNA! 👋
+My website https://nekona.jp
 
-Introduction
+## Introduction 
 I am a software developer passionate about open-source projects and web development.
 My hobbies include creating videos using illustrations I’ve painstakingly drawn in Clip Studio Paint and 3D models I’ve created in Blender, as well as electronics projects that enhance my daily quality of life.
 ---
 私は、オープンソースプロジェクトとウェブ開発に情熱を注ぐソフトウェア開発者です。
-趣味は、Clip Studio Paintで丹精込めて描いたイラストやBlenderで作成した3Dモデルを使って動画を作ること、そして日々の生活の質を向上させる電子工作です。
+趣味は、Clip Studio Paintで丹精込めて描いたイラストやBlenderで作成した3Dモデルを使って動画を作ること、そして日々の生活の質を向上させる電子工作が趣味です。
 
 ## Skills
 
@@ -15,5 +16,5 @@ My hobbies include creating videos using illustrations I’ve painstakingly draw
 
 ## バッジ
 
-![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/n-ekona?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/n_ekona?style=social)
